@@ -3,5 +3,5 @@
 ## Installation
 
 ```bash
-chmod +x spit_struct.py ; mv spit_struct.py /usr/local/bin/spit-structure
+chmod +x spit.py ; sudo mv spit.py /usr/local/bin/spit
 ```
