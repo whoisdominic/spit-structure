@@ -25,5 +25,5 @@ spit -d 2
 With depth and hidden files
 
 ```bash
-spit -d 2
+spit -a -d 2 
 ```
